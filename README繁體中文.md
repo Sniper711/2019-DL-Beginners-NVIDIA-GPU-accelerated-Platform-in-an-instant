@@ -100,13 +100,13 @@ ___
    ![](/photo/2019%202d%20TeamViewer%20Change%20Password%20and%20Grant%20Easy%20Access.png)  
    重啟電腦.
 
-6. Remotely access your DL Cloud anywhere anytime . 
-   Use browser on another laptop, connect to your Cound Service url http://xxxxxx.ngrok.io  
-   Start using Jupyter Notebook with NVIDIA GPU accelerated Platform in Cloud remotely  
+6. 隨時隨地, 遠程使用你的深度學習雲服務器   
+   在另一台筆記型電腦, 開啟你的私人雲服務器網址 http://xxxxxx.ngrok.io  
+   隨心所欲, 遠程使用能NVIDIA GPU高速運算的深度學習Jupyter Notebook程式編輯器   
    ![](/photo/2019%203a%20Access%20your%20DL%20Cloud%20anywhere%20anytime.png) . 
 
 ___
 ___
-# Now show it to your Deep Learning coding mates, enjoy their envy.
-**If you like my job, please share this Github link out.**
+# 現在展示給也在做深度學習程式的朋友看, 感受他們欣羨的眼光.
+**如果你喜歡我的分享, 請你也分享我的Github連結到臉書上.**
 https://github.com/Sniper711/2019-DL-Beginners-NVIDIA-GPU-accelerated-Platform-in-an-instant/blob/master/README.md
