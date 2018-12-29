@@ -13,9 +13,9 @@
 4. NVIDIA support for Docker CE
 5. Tensorflow/Keras Docker Image for CUDA 10
 
-   (找很久了吧?)
-   (最新的NVIDIA圖靈GPUs需搭配CUDA 10, 然而Docker Hub Tensorflow:Tensorflow還沒有發布支援CUDA 10的Docker Image)
-   (我這份映像檔配備有支持CUDA 10的Tensorflow/Keras Docker Image, 這是目前大家一直找不到的)
+   (找很久了吧?)  
+   (最新的NVIDIA圖靈GPUs需搭配CUDA 10, 然而Docker Hub Tensorflow:Tensorflow還沒有發布支援CUDA 10的Docker Image)  
+   (我這份映像檔配備有支持CUDA 10的Tensorflow/Keras Docker Image, 這是目前大家一直找不到的)  
    
 6. 按照以下指示, 啟動/配置你的NVIDIA GPU桌機變成極貴重的私人雲服務器 **(選用,非必要)**  
 
