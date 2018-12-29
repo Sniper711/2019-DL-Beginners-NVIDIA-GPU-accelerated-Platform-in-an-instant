@@ -31,13 +31,13 @@ ___
 **下載, 還原, 使用. 就這麼簡單:** 
 1. NVIDIA 高端 GPU 顯示卡.
 2. 在這裡下載 2019最新的映像檔案 (22GB) 
-3. Recover with Acronis True Image application, on a high speed USB Disk or HDD/SSD Disk.
-4. Set motherboard BIOS to boot from recovered high speed USB Disk or HDD/SSD Disk.
-5. Boot PC and ready to use. So Easy!
+3. 用Acronis True Image 2018, 把映像檔還原到一隻高速USB隨身碟或是一顆硬碟上.
+4. 變更主機板BIOS設定, 以這隻高速USB隨身碟或是這顆硬碟開機.
+5. 重新開機, 開始使用. 就這麼簡單!
 
-   Jupyter notebook will automatically pop up.  
-   No need to input commands: $ sudo docker start -ai tensorflowkeras & # jupyter notebook --allow-root.  
-   I already made a no-brainer autorun shell on Ubuntu startup applications for you.  
+   Jupyter notebook 在開機後會自動展開.  
+   不再需要每次都輸入指令: $ sudo docker start -ai tensorflowkeras 與 # jupyter notebook --allow-root.  
+   我已為你做了一個無腦自動啟動的開機程序.  
 
 ___
 ___
