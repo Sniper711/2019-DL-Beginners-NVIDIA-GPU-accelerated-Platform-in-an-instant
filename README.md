@@ -4,7 +4,7 @@
 
 **Breakthroughs**
 1. Support the latest NVIDIA Tuning GPUs -------(Option 1, activated by default)  
-2. Deploy your GPU Desktop as a Cloud service --(Option 2, pre-installed, not activated yet)**(Optional)**  
+2. Deploy your GPU Desktop as an inestimable value Cloud service --(Option 2, pre-installed, not activated yet)**(Optional)**  
 
 **Includes**
 1. Ubuntu 18.04
@@ -16,7 +16,7 @@
    (The latest NVIDIA Turing GPUs requires CUDA 10, however Docker Hub Tensorflow:Tensorflow does not release Docker Image that supports CUDA 10 yet)  
    (This image equips you Tensorflow/Keras Docker Image for CUDA 10)
    
-6. Follow instructions hereunder to activate/deploy your GPU Desktop become a Cound service **(Optional)**  
+6. Follow instructions hereunder to activate/deploy your GPU Desktop become an inestimable valueCound service **(Optional)**  
 
    (Supreme value to have your personal Deep Learning cloud server conveniently anytime anywhere)
 
