@@ -32,7 +32,8 @@ ___
 5. Boot PC and ready to use. So Easy!
 
    Jupyter notebook will automatically pop up. 
-   No need to input commands: $ sudo docker start -ai tensorflowkeras & # jupyter notebook --allow-root. I already made a no-brainer autorun shell on Ubuntu startup applications for you. 
+   No need to input commands: $ sudo docker start -ai tensorflowkeras & # jupyter notebook --allow-root. 
+   I already made a no-brainer autorun shell on Ubuntu startup applications for you. 
 
 # Starup Option 2: Cloud use, pre-installed, need to be activated.  
 **Buy Gadget, Register/Activate Ngrok & Teamviewer, :**
