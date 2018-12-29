@@ -31,7 +31,7 @@ ___
 # Starup Option 1: Local use, by default.  
 **Download, Recover, and Use it no-brainer:** 
 1. NVIDIA highend GPU Graphic Card.
-2. Download 2019 new image file (22GB) 
+2. Download 2019 new image file (22GB) https://drive.google.com/open?id=1F3zEfWvXRcz-eOT6aJ25jy0A1bSU9U7K
 3. Recover with Acronis True Image application, on a high speed USB Disk or HDD/SSD Disk.
 4. Set motherboard BIOS to boot from recovered high speed USB Disk or HDD/SSD Disk.
 5. Boot PC and ready to use. So Easy!
