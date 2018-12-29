@@ -1,5 +1,6 @@
 # 2019-DL-Beginners-NVIDIA-GPU-accelerated-Platform-in-an-instant  
-**Sequel** of 2018 DL-Beginners-NVIDIA-GPU-accelerated-Platform-in-an-instant https://goo.gl/LPWr1v 
+**Sequel** of 2018 DL-Beginners-NVIDIA-GPU-accelerated-Platform-in-an-instant https://goo.gl/LPWr1v  
+
 
 **Breakthroughs**
 1. Support the latest NVIDIA Tuning GPUs -------------(Option 1, activated by default)
