@@ -60,19 +60,19 @@ ___
           瀏覽器連到 https://dashboard.ngrok.com/get-started  
           跳到頁面第三步驟connect to your account, 複製 "./ngrok authtoken ....(你的token令牌)"  
           ![](/photo/2019%200a%20Ngrok%20Step%203%20find%20token.png)  
-          Ctrl+Alt+T open terminal, input the commands:  
+          Ctrl+Alt+T打開終端機, 輸入指令:  
           $ cd /home/nvidia/startup  
-          $ ./ngrok authtoken ....(your token)  
+          $ ./ngrok authtoken ....(你的token令牌)  
           
-   (3-2). Subscript $5/month ngrok service:
+   (3-2). 訂閱 $5美金/每月 ngrok服務:
           ![](/photo/2019%200b%20Ngrok%20Go%20Reserved%20-%20not%20paid%20yet.png)
           ![](/photo/2019%200c%20Ngrok%20Choose%20Subscription.png)
           
-   (3-3). Setup reservered subdomain name:
+   (3-3). 設置 reservered subdomain名稱:
           ![](/photo/2019%200d%20Ngrok%20Go%20Reserved%20-%20Setup%20after%20paid.png)
-          Choose a favorate subdomain name xxxxxx, now the http://xxxxxx.ngrok.io is your Cloud Service url. 
+          幫你的subdomain name取一個響亮的名稱 xxxxxx, 以後 http://xxxxxx.ngrok.io 就是你的私人雲服務器網址. 
           
-   (3-4). Save setting to startup_opt2_cloud_use.sh
+   (3-4). 把你的subdomain name名稱寫入startup_opt2_cloud_use.sh開機程序中:
           Ctrl+Alt+T open terminal, input the commands:  
           $ cd /home/nvidia/startup  
           $ sudo nano startup_opt2_cloud_use.sh  
