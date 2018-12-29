@@ -13,6 +13,7 @@
 4. NVIDIA support for Docker CE
 5. Tensorflow/Keras Docker Image for CUDA 10
 
+   (Search it for a long time?)  
    (The latest NVIDIA Turing GPUs requires CUDA 10, however Docker Hub Tensorflow:Tensorflow does not release Docker Image that supports CUDA 10 yet)  
    (This image equips you Tensorflow/Keras Docker Image for CUDA 10)
    
