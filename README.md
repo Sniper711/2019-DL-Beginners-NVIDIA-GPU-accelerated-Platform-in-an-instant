@@ -19,7 +19,7 @@ Sequel of 2018 DL-Beginners-NVIDIA-GPU-accelerated-Platform-in-an-instant https:
 ___
 ___
 # Before you use:
-  **Refer to 2018 DL-Beginners-NVIDIA-GPU-accelerated-Platform-in-an-instant https://goo.gl/LPWr1v **
+**Refer to 2018 DL-Beginners-NVIDIA-GPU-accelerated-Platform-in-an-instant https://goo.gl/LPWr1v**
   
 ___
 ___
