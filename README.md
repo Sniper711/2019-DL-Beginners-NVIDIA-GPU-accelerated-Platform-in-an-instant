@@ -58,7 +58,7 @@ ___
    
    (3-1). Find your token and save it to ngrok app:  
           Visit https://dashboard.ngrok.com/get-started  
-          Jump to step 3 : connect to your account, copy "./ngrok authtoken ....(your token)  
+          Jump to step 3 : connect to your account, copy "./ngrok authtoken ....(your token)"  
           ![](/photo/2019%200a%20Ngrok%20Step%203%20find%20token.png)  
           Ctrl+Alt+T open terminal, input the commands:  
           $ cd /home/nvidia/startup  
