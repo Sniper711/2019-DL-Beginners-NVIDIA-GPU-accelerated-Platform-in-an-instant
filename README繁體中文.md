@@ -81,12 +81,12 @@ ___
           ![](/photo/2019%200e%20Ngrok%20-%20update%20startup_opt2_cloud_use%20sh.png)  
           Ctrl+O存檔, Enter鍵覆蓋原檔, Ctrl+X退出.  
           
-3. Ubuntu startup application settings:  
-   De-activate (uncheck) Startup Opt1, Activate (check) Startup Opt2  
+3. Ubuntu startup application設置:  
+   關閉 (取消打勾) Startup Opt1, 改啟動 (打勾) Startup Opt2  
    ![](/photo/2019%201a%20startup%20applications.png)  
-   By default, Startup Opt1 is checked  
+   預設是打勾 Startup Opt1 ==> 本地使用(Local Use)  
    ![](/photo/2019%201b%20startup%20applications%20default.png)  
-   De-activate (uncheck) Startup Opt1, Activate (check) Startup Opt2  
+   關閉 (取消打勾) Startup Opt1, 改啟動 (打勾) Startup Opt2 ==> 改成雲端使用(Cloud Use)  
    ![](/photo/2019%201c%20startup%20applications%20check%20opt2%20uncheck%20opt1.png)  
    
 4. TeamViewer auto launch settings:  
