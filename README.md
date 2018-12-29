@@ -46,13 +46,19 @@ ___
 # Starup Option 2: Cloud use, pre-installed, need to be activated.  
 **Buy Gadget, Register/Activate Ngrok & Teamviewer, :**
 1. Buy gadget to turn on/off PC Power over your phone.
-   Recommend "Sapido WSG70n", designed and made in Taiwan. 
-   (any "Sapido WSG70n" equivalent gadget works)
+
+   Recommend "Sapido WSG70n", designed and made in Taiwan. (any "Sapido WSG70n" equivalent gadget works)
+   
 2. Set motherboard BIOS. 
+
    On power management setting, set when Power is ON, then Always Turn On PC.
+
 3. Register/Activate ngrok
+
    Ngrok is already downloaded into /home/nvidia/startup, what you need is to register/activate ngrok.
+   
    Visit https://ngrok.com/, register and login.
+   
    (3-1). Find your token and save it to ngrok app:
           Visit https://dashboard.ngrok.com/get-started 
           Jump to step 3 : connect to your account, copy "./ngrok authtoken ....(your token)"
@@ -60,12 +66,15 @@ ___
           Ctrl+Alt+T open terminal, input the commands:
           $ cd /home/nvidia/startup
           $ ./ngrok authtoken ....(your token)
+          
    (3-2). Subscript $5/month ngrok service:
           ![](/photo/2019%200b%20Ngrok%20Go%20Reserved%20-%20not%20paid%20yet.png)
           ![](/photo/2019%200c%20Ngrok%20Choose%20Subscription.png)
+          
    (3-3). Setup reservered subdomain name:
           ![](/photo/2019%200d%20Ngrok%20Go%20Reserved%20-%20Setup%20after%20paid.png)
           Choose a favorate subdomain name xxxxxx, now you can use http://xxxxxxx.ngrok.io as your Cloud Service url. 
+          
    (3-4). Save setting to startup_opt2_cloud_use.sh
           Ctrl+Alt+T open terminal, input the commands:
           $ cd /home/nvidia/startup
@@ -73,6 +82,7 @@ ___
           On pop up window, replace below yellow marked text with your favoraye subdomain name on above.  
           ![](/photo/2019%200e%20Ngrok%20-%20update%20startup_opt2_cloud_use%20sh.png)
           Ctrl+O to save, enter to save on the same file name, Ctrl+X to exit.
+          
 3. Ubuntu startup application settings:
    De-activate (uncheck) Startup Opt1, Activate (check) Startup Opt2
    
