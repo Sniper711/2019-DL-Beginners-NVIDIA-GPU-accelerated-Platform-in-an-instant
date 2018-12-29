@@ -4,7 +4,7 @@ Sequel of 2018 DL-Beginners-NVIDIA-GPU-accelerated-Platform-in-an-instant https:
 
 **Breakthroughs**
 1. Support the latest NVIDIA Tuning GPUs -------------(Option 1, activated by default)
-2. Deploy your GPU Desktop become a Cloud service -(Option 2, pre-installed, not activated yet)
+2. Deploy your GPU Desktop become a Cloud service --(Option 2, pre-installed, not activated yet)
 
 **Includes**
 1. Ubuntu 18.04
