@@ -41,8 +41,8 @@ ___
 
 ___
 ___
-# Starup Option 2: Cloud use, pre-installed, need to be activated.  
-**Buy Gadget, Register/Activate Ngrok & Teamviewer, :**
+# 開機選項2: 雲端使用(Cloud use), 已預先安裝, 但沒有啟動.  
+**買怪給西, 註冊/啟用 Ngrok 與 Teamviewer, 切換開機選項2 :**
 1. Buy gadget to turn on/off PC Power over your phone.
 
    Recommend "Sapido WSG70n", designed and made in Taiwan. (any "Sapido WSG70n" equivalent gadget works)
