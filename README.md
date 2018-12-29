@@ -98,10 +98,10 @@ ___
    ![](/photo/2019%202d%20TeamViewer%20Change%20Password%20and%20Grant%20Easy%20Access.png)  
    Restart your Ubuntu PC.
 
-5. Remotely access your DL Cloud anywhere anytime
+5. Remotely access your DL Cloud anywhere anytime . 
    Use browser on another laptop, connect to your Cound Service url http://xxxxxx.ngrok.io  
-   Start using Jupyter Notebook with NVIDIA GPU accelerated Platform in Cloud remotely. 
-   ![](/photo/2019%203a%20Access%20your%20DL%20Cloud%20anywhere%20anytime.png)
+   Start using Jupyter Notebook with NVIDIA GPU accelerated Platform in Cloud remotely  
+   ![](/photo/2019%203a%20Access%20your%20DL%20Cloud%20anywhere%20anytime.png) . 
 
 ___
 ___
