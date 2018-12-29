@@ -41,7 +41,7 @@ ___
 
 ___
 ___
-# Starup Option 2: Cloud use, pre-installed, need to be activated.  
+# Starup Option 2: Cloud use, pre-installed, need to be activated. **(Optional)**    
 **Buy Gadget, Register/Activate Ngrok & Teamviewer, :**
 1. Buy gadget to turn on/off PC Power over your phone.
 
