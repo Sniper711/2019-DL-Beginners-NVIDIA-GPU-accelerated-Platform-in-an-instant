@@ -14,6 +14,7 @@ Sequel of 2018 DL-Beginners-NVIDIA-GPU-accelerated-Platform-in-an-instant https:
 5. Tensorflow/Keras Docker Image for CUDA 10
    (The latest NVIDIA Turing GPU requires CUDA 10, however Docker Hub Tensorflow:Tensorflow does not release Docker Image that supports CUDA 10 yet) (This image equip you Tensorflow/Keras Docker Image for CUDA 10)
 6. Follow instructions hereunder to activate/deploy your GPU Desktop become a Cound service 
+
    (Supreme value to have your personal Deep Learning cloud server conveniently anytime anywhere)
 
 ___
@@ -33,7 +34,9 @@ ___
 
    Jupyter notebook will automatically pop up. 
    No need to input commands: $ sudo docker start -ai tensorflowkeras & # jupyter notebook --allow-root. 
+   
    I already made a no-brainer autorun shell on Ubuntu startup applications for you. 
+
 
 # Starup Option 2: Cloud use, pre-installed, need to be activated.  
 **Buy Gadget, Register/Activate Ngrok & Teamviewer, :**
