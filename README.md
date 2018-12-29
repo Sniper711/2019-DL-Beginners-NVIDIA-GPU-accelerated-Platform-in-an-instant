@@ -13,8 +13,7 @@ Sequel of 2018 DL-Beginners-NVIDIA-GPU-accelerated-Platform-in-an-instant https:
 4. NVIDIA support for Docker CE
 5. Tensorflow/Keras Docker Image for CUDA 10
 
-   (The latest NVIDIA Turing GPU requires CUDA 10, however Docker Hub Tensorflow:Tensorflow does not release Docker Image that supports CUDA 10 yet) 
-   
+   (The latest NVIDIA Turing GPU requires CUDA 10, however Docker Hub Tensorflow:Tensorflow does not release Docker Image that supports CUDA 10 yet)  
    (This image equips you Tensorflow/Keras Docker Image for CUDA 10)
    
 6. Follow instructions hereunder to activate/deploy your GPU Desktop become a Cound service 
