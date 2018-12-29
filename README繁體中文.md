@@ -2,7 +2,7 @@
 **續集** 2018 深度學習初學者祕技! 輕鬆備妥NVIDIA GPU深度學習高速運算環境 的續集. https://goo.gl/yMcZMd  
 
 
-**Breakthroughs**
+**亮點**
 1. Support the latest NVIDIA Tuning GPUs -------(Option 1, activated by default)
 2. Deploy your GPU Desktop as a Cloud service --(Option 2, pre-installed, not activated yet)
 
