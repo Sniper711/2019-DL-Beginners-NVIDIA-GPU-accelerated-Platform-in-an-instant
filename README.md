@@ -81,7 +81,7 @@ ___
           ![](/photo/2019%200e%20Ngrok%20-%20update%20startup_opt2_cloud_use%20sh.png)  
           Ctrl+O to save, Enter to save with current file name, Ctrl+X to exit.  
           
-3. Ubuntu startup application settings:  
+4. Ubuntu startup application settings:  
    De-activate (uncheck) Startup Opt1, Activate (check) Startup Opt2  
    ![](/photo/2019%201a%20startup%20applications.png)  
    By default, Startup Opt1 is checked ==> Local Use  
@@ -89,7 +89,7 @@ ___
    De-activate (uncheck) Startup Opt1, Activate (check) Startup Opt2 ==> change to Cloud Use  
    ![](/photo/2019%201c%20startup%20applications%20check%20opt2%20uncheck%20opt1.png)  
    
-4. TeamViewer auto launch settings:  
+5. TeamViewer auto launch settings:  
    Start at boot + Assign to yourself  
    ![](/photo/2019%202a%20TeamViewer%20Start%20at%20boot%20and%20Assign%20to%20yourself.png)  
    Assign to yourself (use your own teamviewer account email address)  
@@ -100,7 +100,7 @@ ___
    ![](/photo/2019%202d%20TeamViewer%20Change%20Password%20and%20Grant%20Easy%20Access.png)  
    Restart your Ubuntu PC.
 
-5. Remotely access your DL Cloud anywhere anytime . 
+6. Remotely access your DL Cloud anywhere anytime . 
    Use browser on another laptop, connect to your Cound Service url http://xxxxxx.ngrok.io  
    Start using Jupyter Notebook with NVIDIA GPU accelerated Platform in Cloud remotely  
    ![](/photo/2019%203a%20Access%20your%20DL%20Cloud%20anywhere%20anytime.png) . 
