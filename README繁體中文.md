@@ -2,19 +2,19 @@
 **續集** 2018 深度學習初學者祕技! 輕鬆備妥NVIDIA GPU深度學習高速運算環境 的續集. https://goo.gl/yMcZMd  
 
 
-**亮點**
-1. Support the latest NVIDIA Tuning GPUs -------(Option 1, activated by default)
-2. Deploy your GPU Desktop as a Cloud service --(Option 2, pre-installed, not activated yet)
+**突破性的進展**
+1. 支援最新的NVIDIA圖靈GPUs -------(開機選項1, 在預設中啟動)
+2. 把你的NVIDIA GPU桌機變成雲服務 --(開機選項2, 已預先安裝, 但沒有啟動)
 
-**Includes**
+**包括**
 1. Ubuntu 18.04
 2. NVIDIA CUDA 10
 3. Docker CE
 4. NVIDIA support for Docker CE
 5. Tensorflow/Keras Docker Image for CUDA 10
 
-   (The latest NVIDIA Turing GPU requires CUDA 10, however Docker Hub Tensorflow:Tensorflow does not release Docker Image that supports CUDA 10 yet)  
-   (This image equips you Tensorflow/Keras Docker Image for CUDA 10)
+   (最新的NVIDIA圖靈GPUs需搭配CUDA 10, 然而Docker Hub Tensorflow:Tensorflow還沒有發布支援CUDA 10的Docker Image)
+   (我這份映像檔配備有支持CUDA 10的Tensorflow/Keras Docker Image)
    
 6. Follow instructions hereunder to activate/deploy your GPU Desktop become a Cound service 
 
