@@ -101,13 +101,13 @@ ___
    Restart your Ubuntu PC.
 
 6. Remotely access your DL Cloud anywhere anytime  
-   Use your phone, through gadget, remotely turn on Desktop PC power (at home or office), become your personal Cloud Server. 
+   Use your phone, through gadget, remotely turn on Desktop PC power (at home or office), become your personal Cloud Server.   
    Use another laptop, connect browser to your Cound Service url http://xxxxxx.ngrok.io  
    Start using Jupyter Notebook with NVIDIA GPU accelerated Platform in Cloud remotely  
    ![](/photo/2019%203a%20Access%20your%20DL%20Cloud%20anywhere%20anytime.png)  
 
 ___
 ___
-# Now show it to your Deep Learning coding mates, enjoy their envy.
-**If you like my sharing, please share this Github link to your FB.**
+# Now show it to your Deep Learning coding mates, enjoy their envy.  
+**If you like my sharing, please share this Github link to your FB.**  
 https://github.com/Sniper711/2019-DL-Beginners-NVIDIA-GPU-accelerated-Platform-in-an-instant/blob/master/README.md
