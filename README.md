@@ -79,11 +79,13 @@ ___
           ![](/photo/2019%200e%20Ngrok%20-%20update%20startup_opt2_cloud_use%20sh.png)  
           Ctrl+O to save, Enter to save with current file name, Ctrl+X to exit.  
           
-3. Ubuntu startup application settings:
-   De-activate (uncheck) Startup Opt1, Activate (check) Startup Opt2
-   ![](/photo/2019%201a%20startup%20applications.png)
-   ![](/photo/2019%201b%20startup%20applications%20default.png)
-   ![](/photo/2019%201c%20startup%20applications%20check%20opt2%20uncheck%20opt1.png)
+3. Ubuntu startup application settings:  
+   De-activate (uncheck) Startup Opt1, Activate (check) Startup Opt2  
+   ![](/photo/2019%201a%20startup%20applications.png)  
+   By default, Opt1 is checked  
+   ![](/photo/2019%201b%20startup%20applications%20default.png)  
+   De-activate (uncheck) Startup Opt1, Activate (check) Startup Opt2  
+   ![](/photo/2019%201c%20startup%20applications%20check%20opt2%20uncheck%20opt1.png)  
    
 2. Download 2019 new image file here 
 3. Recover with Acronis True Image application, make sure you recover to high speed USB Disk or HDD/SSD Disk.
