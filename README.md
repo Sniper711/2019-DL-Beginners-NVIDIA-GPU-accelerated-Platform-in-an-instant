@@ -39,7 +39,8 @@ ___
    No need to input commands: $ sudo docker start -ai tensorflowkeras & # jupyter notebook --allow-root.  
    I already made a no-brainer autorun shell on Ubuntu startup applications for you.  
 
-
+___
+___
 # Starup Option 2: Cloud use, pre-installed, need to be activated.  
 **Buy Gadget, Register/Activate Ngrok & Teamviewer, :**
 1. Buy gadget to turn on/off PC Power over your phone.
