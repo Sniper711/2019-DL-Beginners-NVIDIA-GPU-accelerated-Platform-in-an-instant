@@ -2,7 +2,7 @@
 **續集** 這是 2018 深度學習初學者祕技! 輕鬆備妥NVIDIA GPU深度學習高速運算環境 的續集. https://goo.gl/yMcZMd  
 
 
-**突破性的進展**
+**重大突破**
 1. 支援最新的NVIDIA圖靈GPUs -------(開機選項1, 在預設中啟動)
 2. 把你的NVIDIA GPU桌機變成極貴重的私人雲服務器 --(開機選項2, 已預先安裝, 但沒有啟動)**(選用,非必要)**  
 
@@ -14,7 +14,7 @@
 5. Tensorflow/Keras Docker Image for CUDA 10
 
    (最新的NVIDIA圖靈GPUs需搭配CUDA 10, 然而Docker Hub Tensorflow:Tensorflow還沒有發布支援CUDA 10的Docker Image)
-   (我這份映像檔配備有支持CUDA 10的Tensorflow/Keras Docker Image)
+   (我這份映像檔配備有支持CUDA 10的Tensorflow/Keras Docker Image, 這是目前大家一直找不到的)
    
 6. 按照以下指示, 啟動/配置你的NVIDIA GPU桌機變成極貴重的私人雲服務器 **(選用,非必要)**  
 
@@ -31,8 +31,8 @@ ___
 **下載, 還原, 使用. 就這麼簡單:** 
 1. NVIDIA 高端 GPU 顯示卡.
 2. 在這裡下載 2019最新的映像檔案 (22GB) 
-3. 用Acronis True Image 2018, 把映像檔還原到一隻高速USB隨身碟或是一顆硬碟上.
-4. 變更主機板BIOS設定, 以這隻高速USB隨身碟或是這顆硬碟開機.
+3. 用Acronis True Image 2018, 把映像檔還原到一只高速USB隨身碟或是一顆硬碟上.
+4. 設定主機板BIOS, 從這只高速USB隨身碟或這顆硬碟開機.
 5. 重新開機, 開始使用. 就這麼簡單!
 
    Jupyter notebook 在開機後會自動展開.  
@@ -42,23 +42,23 @@ ___
 ___
 ___
 # 開機選項2: 雲端使用(Cloud use), 已預先安裝, 但沒有啟動.  
-**買怪給西, 註冊/啟用 Ngrok 與 Teamviewer, 切換開機選項2 :**
-1. Buy gadget to turn on/off PC Power over your phone.
+**買怪給西, 註冊/啟用 Ngrok 與 Teamviewer, 切換開機選項2:**
+1. 買怪給西, 從手機開/關你的電腦電源.
 
-   Recommend "Sapido WSG70n", designed and made in Taiwan. (any "Sapido WSG70n" equivalent gadget works)
+   推薦傻多"Sapido WSG70n", 完全由台灣設計與製造的產品. (任何同等於傻多"Sapido WSG70n"的怪給西也都能用)
    
-2. Setup motherboard BIOS. 
+2. 設定主機板BIOS. 
 
-   On power management setting, set when Power is ON, then Always Turn On PC.
+   在電源管理選單裡, 設定當插座電力恢復供電的時候, 永遠自動開啟電腦.
 
-3. Register/Activate ngrok
+3. 註冊/啟用 Ngrok
 
-   Ngrok is already downloaded into /home/nvidia/startup, what you need is to register/activate ngrok.  
-   Visit https://ngrok.com/, register and login.  
+   Ngrok已預先下載到目錄/home/nvidia/startup, 你唯一要做的事, 是註冊/啟用ngrok.  
+   瀏覽器連到 https://ngrok.com/, 註冊並登入.  
    
-   (3-1). Find your token and save it to ngrok app:  
-          Visit https://dashboard.ngrok.com/get-started  
-          Jump to step 3 : connect to your account, copy "./ngrok authtoken ....(your token)  
+   (3-1). 找到你的token令牌, 存進ngrok app裡:  
+          瀏覽器連到 https://dashboard.ngrok.com/get-started  
+          跳到頁面第三步驟connect to your account, 複製 "./ngrok authtoken ....(你的token令牌)"  
           ![](/photo/2019%200a%20Ngrok%20Step%203%20find%20token.png)  
           Ctrl+Alt+T open terminal, input the commands:  
           $ cd /home/nvidia/startup  
