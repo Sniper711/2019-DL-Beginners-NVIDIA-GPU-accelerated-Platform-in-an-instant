@@ -4,7 +4,7 @@
 
 **突破性的進展**
 1. 支援最新的NVIDIA圖靈GPUs -------(開機選項1, 在預設中啟動)
-2. 把你的NVIDIA GPU桌機變成雲服務 --(開機選項2, 已預先安裝, 但沒有啟動)
+2. 把你的NVIDIA GPU桌機變成高價值的雲服務器 --(開機選項2, 已預先安裝, 但沒有啟動)**(選用,非必要)**  
 
 **包括**
 1. Ubuntu 18.04
@@ -16,9 +16,9 @@
    (最新的NVIDIA圖靈GPUs需搭配CUDA 10, 然而Docker Hub Tensorflow:Tensorflow還沒有發布支援CUDA 10的Docker Image)
    (我這份映像檔配備有支持CUDA 10的Tensorflow/Keras Docker Image)
    
-6. Follow instructions hereunder to activate/deploy your GPU Desktop become a Cound service 
+6. 按照以下指示, 啟動/配置你的NVIDIA GPU桌機變成高價值的雲服務器 **(選用,非必要)**  
 
-   (Supreme value to have your personal Deep Learning cloud server conveniently anytime anywhere)
+   (無敵價值! 打造你的個人深度學習雲服務器, 在任何時間, 任意地點遠程使用)
 
 ___
 ___
