@@ -107,4 +107,4 @@ ___
 ___
 # Now show it to your Deep Learning coding mates, enjoy their envy.
 **If you like my job, please share this Github link out.**
-
+https://github.com/Sniper711/2019-DL-Beginners-NVIDIA-GPU-accelerated-Platform-in-an-instant/blob/master/README.md
