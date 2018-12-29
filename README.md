@@ -72,7 +72,7 @@ ___
           ![](/photo/2019%200d%20Ngrok%20Go%20Reserved%20-%20Setup%20after%20paid.png)
           Choose a favorate subdomain name xxxxxx, now the http://xxxxxx.ngrok.io is your Cloud Service url. 
           
-   (3-4). Save setting to startup_opt2_cloud_use.sh
+   (3-4). Save your subdomain name into startup_opt2_cloud_use.sh:
           Ctrl+Alt+T open terminal, input the commands:  
           $ cd /home/nvidia/startup  
           $ sudo nano startup_opt2_cloud_use.sh  
