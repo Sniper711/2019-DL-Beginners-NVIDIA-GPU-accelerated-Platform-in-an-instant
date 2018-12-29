@@ -42,7 +42,7 @@ ___
 ___
 ___
 # Starup Option 2: Cloud use, pre-installed, need to be activated. **(Optional)**    
-**Buy Gadget, Register/Activate Ngrok & Teamviewer, :**
+**Buy Gadget, Register/Activate Ngrok & Teamviewer, Switch to Startup Option 2:**
 1. Buy gadget to turn on/off PC Power over your phone.
 
    Recommend "Sapido WSG70n", designed and made in Taiwan. (any "Sapido WSG70n" equivalent gadget works)
