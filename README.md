@@ -52,9 +52,8 @@ ___
 
 3. Register/Activate ngrok
 
-   Ngrok is already downloaded into /home/nvidia/startup, what you need is to register/activate ngrok.
-   
-   Visit https://ngrok.com/, register and login.
+   Ngrok is already downloaded into /home/nvidia/startup, what you need is to register/activate ngrok.  
+   Visit https://ngrok.com/, register and login.  
    
    (3-1). Find your token and save it to ngrok app:  
           Visit https://dashboard.ngrok.com/get-started  
