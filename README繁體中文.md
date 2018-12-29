@@ -31,7 +31,7 @@ ___
 # 開機選項1: 本地使用(Local use), 在預設中啟動.  
 **下載, 還原, 使用. 就這麼簡單:** 
 1. NVIDIA 高端 GPU 顯示卡.
-2. 在這裡下載 2019最新的映像檔案 (22GB) 
+2. 在這裡下載 2019最新的映像檔案 (22GB) https://drive.google.com/open?id=1F3zEfWvXRcz-eOT6aJ25jy0A1bSU9U7K
 3. 用Acronis True Image 2018, 把映像檔還原到一只高速USB隨身碟或是一顆硬碟上.
 4. 設定主機板BIOS, 從這只高速USB隨身碟或這顆硬碟開機.
 5. 重新開機, 開始使用. 就這麼簡單!
