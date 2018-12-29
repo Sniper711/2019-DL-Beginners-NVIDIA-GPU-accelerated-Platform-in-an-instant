@@ -49,7 +49,7 @@ ___
 
    Recommend "Sapido WSG70n", designed and made in Taiwan. (any "Sapido WSG70n" equivalent gadget works)
    
-2. Set motherboard BIOS. 
+2. Setup motherboard BIOS. 
 
    On power management setting, set when Power is ON, then Always Turn On PC.
 
@@ -60,12 +60,19 @@ ___
    Visit https://ngrok.com/, register and login.
    
    (3-1). Find your token and save it to ngrok app:
+   
           Visit https://dashboard.ngrok.com/get-started 
+          
           Jump to step 3 : connect to your account, copy "./ngrok authtoken ....(your token)"
+          
           ![](/photo/2019%200a%20Ngrok%20Step%203%20find%20token.png)
+          
           Ctrl+Alt+T open terminal, input the commands:
+          
           $ cd /home/nvidia/startup
+          
           $ ./ngrok authtoken ....(your token)
+          
           
    (3-2). Subscript $5/month ngrok service:
           ![](/photo/2019%200b%20Ngrok%20Go%20Reserved%20-%20not%20paid%20yet.png)
