@@ -45,7 +45,8 @@ ___
 # Starup Option 2: Cloud use, pre-installed, need to be activated.  
 **Buy Gadget, Register/Activate Ngrok & Teamviewer, :**
 1. Buy gadget to turn on/off PC Power over your phone.
-   Recommend "Sapido WSG70n", designed and made in Taiwan. (any "Sapido WSG70n" equivalent gadget works)
+   Recommend "Sapido WSG70n", designed and made in Taiwan. 
+   (any "Sapido WSG70n" equivalent gadget works)
 2. Set motherboard BIOS. 
    On power management setting, set when Power is ON, then Always Turn On PC.
 3. Register/Activate ngrok
