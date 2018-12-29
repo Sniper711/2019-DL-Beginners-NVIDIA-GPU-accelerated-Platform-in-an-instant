@@ -72,13 +72,13 @@ ___
           ![](/photo/2019%200d%20Ngrok%20Go%20Reserved%20-%20Setup%20after%20paid.png)
           幫你的subdomain name取一個響亮的名稱 xxxxxx, 以後 http://xxxxxx.ngrok.io 就是你的私人雲服務器網址. 
           
-   (3-4). 把你的subdomain name名稱寫入startup_opt2_cloud_use.sh開機程序中:
-          Ctrl+Alt+T open terminal, input the commands:  
+   (3-4). 把你的subdomain name名稱寫入startup_opt2_cloud_use.sh開機程序中:  
+          Ctrl+Alt+T打開終端機, 輸入指令:  
           $ cd /home/nvidia/startup  
           $ sudo nano startup_opt2_cloud_use.sh  
-          On pop up window, replace below yellow marked text with your favoraye subdomain name on above.  
+          這會開啟一個編輯視窗, 用以上你取的subdomain name名稱, 取代下圖黃色標記文字.  
           ![](/photo/2019%200e%20Ngrok%20-%20update%20startup_opt2_cloud_use%20sh.png)  
-          Ctrl+O to save, Enter to save with current file name, Ctrl+X to exit.  
+          Ctrl+O存檔, Enter鍵覆蓋原檔, Ctrl+X退出.  
           
 3. Ubuntu startup application settings:  
    De-activate (uncheck) Startup Opt1, Activate (check) Startup Opt2  
