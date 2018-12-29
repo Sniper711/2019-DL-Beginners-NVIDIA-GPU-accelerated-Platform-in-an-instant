@@ -101,7 +101,8 @@ ___
    重啟電腦.
 
 6. 隨時隨地, 遠程使用你的深度學習雲服務器   
-   在另一台筆記型電腦, 開啟你的私人雲服務器網址 http://xxxxxx.ngrok.io  
+   拿起你的手機, 透過怪給西, 遠端開啟擺在你家裡/公司裡的桌上型電腦, 自動啟動雲服務  
+   拿起另一台筆記型電腦, 瀏覽器開啟你的私人雲服務器網址 http://xxxxxx.ngrok.io  
    隨心所欲, 遠程使用能NVIDIA GPU高速運算的深度學習Jupyter Notebook程式編輯器   
    ![](/photo/2019%203a%20Access%20your%20DL%20Cloud%20anywhere%20anytime.png) . 
 
