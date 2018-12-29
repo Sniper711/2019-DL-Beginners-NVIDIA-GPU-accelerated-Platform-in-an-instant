@@ -84,9 +84,9 @@ ___
 3. Ubuntu startup application settings:  
    De-activate (uncheck) Startup Opt1, Activate (check) Startup Opt2  
    ![](/photo/2019%201a%20startup%20applications.png)  
-   By default, Startup Opt1 is checked  
+   By default, Startup Opt1 is checked ==> Local Use  
    ![](/photo/2019%201b%20startup%20applications%20default.png)  
-   De-activate (uncheck) Startup Opt1, Activate (check) Startup Opt2  
+   De-activate (uncheck) Startup Opt1, Activate (check) Startup Opt2 ==> change to Cloud Use  
    ![](/photo/2019%201c%20startup%20applications%20check%20opt2%20uncheck%20opt1.png)  
    
 4. TeamViewer auto launch settings:  
