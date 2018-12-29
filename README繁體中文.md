@@ -1,5 +1,5 @@
 # 2019 深度學習初學者祕技! 輕鬆備妥NVIDIA GPU深度學習高速運算環境.  
-**續集** 2018 深度學習初學者祕技! 輕鬆備妥NVIDIA GPU深度學習高速運算環境 的續集. https://goo.gl/yMcZMd  
+**續集** 這是 2018 深度學習初學者祕技! 輕鬆備妥NVIDIA GPU深度學習高速運算環境 的續集. https://goo.gl/yMcZMd  
 
 
 **突破性的進展**
@@ -27,10 +27,10 @@ ___
   
 ___
 ___
-# Starup Option 1: Local use, by default.  
-**Download, Recover, and Use it no-brainer:** 
-1. NVIDIA highend GPU.
-2. Download 2019 new image file 
+# 開機選項1: 本地使用(Local use), 在預設中啟動.  
+**下載, 還原, 使用. 就這麼簡單:** 
+1. NVIDIA 高端 GPU 顯示卡.
+2. 在這裡下載 2019最新的映像檔案 (22GB) 
 3. Recover with Acronis True Image application, on a high speed USB Disk or HDD/SSD Disk.
 4. Set motherboard BIOS to boot from recovered high speed USB Disk or HDD/SSD Disk.
 5. Boot PC and ready to use. So Easy!
