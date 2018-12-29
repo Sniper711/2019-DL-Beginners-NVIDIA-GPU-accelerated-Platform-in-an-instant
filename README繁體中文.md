@@ -81,7 +81,7 @@ ___
           ![](/photo/2019%200e%20Ngrok%20-%20update%20startup_opt2_cloud_use%20sh.png)  
           Ctrl+O存檔, Enter鍵覆蓋原檔, Ctrl+X退出.  
           
-3. Ubuntu startup application設置:  
+4. Ubuntu startup application設置:  
    關閉 (取消打勾) Startup Opt1, 改啟動 (打勾) Startup Opt2  
    ![](/photo/2019%201a%20startup%20applications.png)  
    預設是打勾 Startup Opt1 ==> 本地使用(Local Use)  
@@ -89,18 +89,18 @@ ___
    關閉 (取消打勾) Startup Opt1, 改啟動 (打勾) Startup Opt2 ==> 改成雲端使用(Cloud Use)  
    ![](/photo/2019%201c%20startup%20applications%20check%20opt2%20uncheck%20opt1.png)  
    
-4. TeamViewer auto launch settings:  
-   Start at boot + Assign to yourself  
+5. TeamViewer開機自啟動 設置:  
+   開機自啟動 Start at boot + 指定權限給你自己 Assign to yourself  
    ![](/photo/2019%202a%20TeamViewer%20Start%20at%20boot%20and%20Assign%20to%20yourself.png)  
-   Assign to yourself (use your own teamviewer account email address)  
+   指定權限給你自己 Assign to yourself (用你註冊teamviewer帳號的email address)  
    ![](/photo/2019%202b%20TeamViewer%20Assign%20to%20yourself.png)  
-   Change Password + Grant Easy Access  
+   設定固定密碼 Change Password + 給予快速通關權限 Grant Easy Access  
    ![](/photo/2019%202c%20TeamViewer%20Change%20Password%20and%20Grant%20Easy%20Access.png)
-   Change Password + Grant Easy Access  
+   設定固定密碼 Change Password + 給予快速通關權限 Grant Easy Access  
    ![](/photo/2019%202d%20TeamViewer%20Change%20Password%20and%20Grant%20Easy%20Access.png)  
-   Restart your Ubuntu PC.
+   重啟電腦.
 
-5. Remotely access your DL Cloud anywhere anytime . 
+6. Remotely access your DL Cloud anywhere anytime . 
    Use browser on another laptop, connect to your Cound Service url http://xxxxxx.ngrok.io  
    Start using Jupyter Notebook with NVIDIA GPU accelerated Platform in Cloud remotely  
    ![](/photo/2019%203a%20Access%20your%20DL%20Cloud%20anywhere%20anytime.png) . 
