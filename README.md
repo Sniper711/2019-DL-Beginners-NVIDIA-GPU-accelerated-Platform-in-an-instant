@@ -17,7 +17,7 @@
    (The latest NVIDIA Turing GPUs requires CUDA 10, however Docker Hub Tensorflow:Tensorflow does not release Docker Image that supports CUDA 10 yet)  
    (This image equips you Tensorflow/Keras Docker Image for CUDA 10)
    
-6. Follow instructions hereunder to activate/deploy your GPU Desktop become a Cound service **(Optional)**  
+6. Follow instructions hereunder to activate/deploy your GPU Desktop become a Cloud service **(Optional)**  
 
    (Supreme value to have your personal Deep Learning cloud server conveniently anytime anywhere)
 
