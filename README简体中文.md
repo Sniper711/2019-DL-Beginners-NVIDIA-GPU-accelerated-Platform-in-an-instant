@@ -110,5 +110,5 @@ ___
 ___
 # 现在展示给也在做深度学习程式的朋友看, 感受他们欣羡的眼光.
 **如果你喜欢我的分享, 请你也分享我的Github连结到微信/QQ/微博上.**
-https://github.com/Sniper711/2019-DL-Beginners-NVIDIA-GPU-accelerated-Platform-in-an-instant/blob/master/README%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87.md
+https://github.com/Sniper711/2019-DL-Beginners-NVIDIA-GPU-accelerated-Platform-in-an-instant/blob/master/README%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87.md
 
